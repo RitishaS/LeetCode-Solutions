@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
