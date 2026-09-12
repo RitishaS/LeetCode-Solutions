@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0178-rank-scores) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RitishaS/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
